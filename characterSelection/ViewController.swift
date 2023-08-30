@@ -8,7 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    var test = 7
     @IBOutlet weak var imageOutlet: UIImageView!
     
     @IBOutlet weak var imageTOutlet: UIImageView!
